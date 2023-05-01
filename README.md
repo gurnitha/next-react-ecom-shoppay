@@ -33,3 +33,14 @@ BUILD THE BEST ECOMMERCE WEBSITE EVER with REACT JS NEXT JS
         NEXT:
 
         1. Demo contoh proyek yang akan dibangun
+
+
+## 1. Demo contoh proyek yang akan dibangun
+
+        Aktivitas:
+
+        1. Membuat images contoh proyek yang akan dibuat
+
+        NEXT:
+
+        2. Membuat proyek
