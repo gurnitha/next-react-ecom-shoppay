@@ -44,3 +44,14 @@ BUILD THE BEST ECOMMERCE WEBSITE EVER with REACT JS NEXT JS
         NEXT:
 
         2. Membuat proyek
+
+
+## 2. Membuat proyek
+
+        Aktivitas:
+
+        3. Modifikasi file README.md 
+
+        NEXT:
+
+        2.1 Membuat proyek
