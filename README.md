@@ -54,4 +54,35 @@ BUILD THE BEST ECOMMERCE WEBSITE EVER with REACT JS NEXT JS
 
         NEXT:
 
-        2.1 Membuat proyek
+        2.1 (2) Membuat proyek
+
+
+#### 2.1 (2) Membuat proyek next.js
+
+        Aktivitas:
+
+        1. Membuat proyek
+        > npx create-next-app@12 next-react-ecom-shoppay
+
+        new file:   .eslintrc.json
+        modified:   README.md
+        new file:   next.config.js
+        new file:   package.json
+        new file:   pages/_app.js
+        new file:   pages/api/hello.js
+        new file:   pages/index.js
+        new file:   public/favicon.ico
+        new file:   public/vercel.svg
+        new file:   styles/Home.module.css
+        new file:   styles/globals.css
+        new file:   yarn.lock
+
+        2. Testing: Menjalankan proyek/server
+        > npm run dev
+        > Buka browser dengan url: http://localhost:3000
+
+        3. Hasil: :)
+
+        NEXT:
+
+        3.2 Menjelaskan css dalam Next.js dan menggabungkan sass dengan modul
