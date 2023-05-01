@@ -18,3 +18,18 @@ BUILD THE BEST ECOMMERCE WEBSITE EVER with REACT JS NEXT JS
 
         Prasyarat
 
+
+#### 0.1 Prasyarat
+
+        Aktivitas:
+
+        1. Memahami dengan baik dasar-dasar HTML, CSS dan JavaScript.
+        2. Memahami dengan baik dasar-dasar React.js dan Next.js
+        3. Memiliki komputer.
+        4. Komputer terkoneksi dengan internet.
+        5. Telah menginstal Node.js versi 18.14.*, npm versi 9.3.*, yarn versi 1.22.*
+        6. Telah menginstal git (opsional)
+
+        NEXT:
+
+        1. Demo contoh proyek yang akan dibangun
